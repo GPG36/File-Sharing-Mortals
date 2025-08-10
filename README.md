@@ -1,6 +1,6 @@
 # 📁 File Sharing Ultra V1
 
-![Image](https://github.com/user-attachments/assets/ede171ae-66bb-45f8-aded-ce2f0dd5782d)
+![Image](https://graph.org/file/8ff3ad679a8d46214e418-6080b447bc548aeaab.jpg)
 
 ## 🚀 A Telegram File Sharing Bot
 🔗 Easily access files through specific links!
